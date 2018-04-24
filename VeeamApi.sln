@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeamApi", "VeeamApi\VeeamApi.csproj", "{8887D0EE-A585-4EA4-8F3C-CD7A19A1A918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeamAPITests", "..\VeeamAPITests\VeeamAPITests.csproj", "{3272169A-F33B-49DE-918D-547218CBDFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8887D0EE-A585-4EA4-8F3C-CD7A19A1A918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8887D0EE-A585-4EA4-8F3C-CD7A19A1A918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8887D0EE-A585-4EA4-8F3C-CD7A19A1A918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8887D0EE-A585-4EA4-8F3C-CD7A19A1A918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3272169A-F33B-49DE-918D-547218CBDFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3272169A-F33B-49DE-918D-547218CBDFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3272169A-F33B-49DE-918D-547218CBDFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3272169A-F33B-49DE-918D-547218CBDFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE3B70A-90E9-43BC-BAFA-950F725D6FA8}
+	EndGlobalSection
+EndGlobal
